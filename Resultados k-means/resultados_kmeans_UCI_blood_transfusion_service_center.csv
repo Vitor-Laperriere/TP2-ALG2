@@ -1,0 +1,2 @@
+Algoritmo,Tempo Execução (s),Silhueta,Índice de Rand Ajustado,Raio Máximo
+K-Means,0.0316 ± 0.0080,0.7025 ± 0.0000,0.0795 ± 0.0000,15223.1532 ± 0.0000
