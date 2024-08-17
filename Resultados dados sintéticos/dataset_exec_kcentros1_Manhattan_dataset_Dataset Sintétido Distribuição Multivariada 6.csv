@@ -1,0 +1,6 @@
+Dataset,Algoritmo,Referência,Tempo Execução (s),Silhueta,Índice de Rand Ajustado,Raio Máximo
+Dataset Sintétido Distribuição Multivariada 6,K-Centros 1,0.05,0.3063 ± 0.0719,0.5253 ± 0.0000,0.5548 ± 0.0000,11.6881 ± 0.0000
+Dataset Sintétido Distribuição Multivariada 6,K-Centros 1,0.1,0.2985 ± 0.0661,0.5253 ± 0.0000,0.5548 ± 0.0000,11.6881 ± 0.0000
+Dataset Sintétido Distribuição Multivariada 6,K-Centros 1,0.15,0.2776 ± 0.0377,0.5253 ± 0.0000,0.5548 ± 0.0000,11.6881 ± 0.0000
+Dataset Sintétido Distribuição Multivariada 6,K-Centros 1,0.2,0.3111 ± 0.0751,0.5253 ± 0.0000,0.5548 ± 0.0000,11.6881 ± 0.0000
+Dataset Sintétido Distribuição Multivariada 6,K-Centros 1,0.25,0.3088 ± 0.0700,0.5253 ± 0.0000,0.5548 ± 0.0000,11.6881 ± 0.0000

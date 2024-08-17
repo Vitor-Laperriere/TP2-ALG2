@@ -1,0 +1,6 @@
+Dataset,Algoritmo,Referência,Tempo Execução (s),Silhueta,Índice de Rand Ajustado,Raio Máximo
+Maternal Health Risk,K-Centros 1,0.05,0.4531 ± 0.1015,0.4246 ± 0.0000,-0.0016 ± 0.0000,62.7774 ± 0.0000
+Maternal Health Risk,K-Centros 1,0.1,0.4449 ± 0.0964,0.4246 ± 0.0000,-0.0016 ± 0.0000,62.7774 ± 0.0000
+Maternal Health Risk,K-Centros 1,0.15,0.4578 ± 0.1400,0.4246 ± 0.0000,-0.0016 ± 0.0000,62.7774 ± 0.0000
+Maternal Health Risk,K-Centros 1,0.2,0.4441 ± 0.0996,0.4246 ± 0.0000,-0.0016 ± 0.0000,62.7774 ± 0.0000
+Maternal Health Risk,K-Centros 1,0.25,0.4110 ± 0.1096,-1.0000 ± 0.0000,0.0000 ± 0.0000,80.6065 ± 0.0000

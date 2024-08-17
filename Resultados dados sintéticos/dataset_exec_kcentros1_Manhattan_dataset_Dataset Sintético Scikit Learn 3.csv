@@ -1,0 +1,6 @@
+Dataset,Algoritmo,Referência,Tempo Execução (s),Silhueta,Índice de Rand Ajustado,Raio Máximo
+Dataset Sintético Scikit Learn 3,K-Centros 1,0.05,0.2251 ± 0.0692,-1.0000 ± 0.0000,0.0000 ± 0.0000,2.6787 ± 0.0000
+Dataset Sintético Scikit Learn 3,K-Centros 1,0.1,0.1681 ± 0.0050,-1.0000 ± 0.0000,0.0000 ± 0.0000,2.6787 ± 0.0000
+Dataset Sintético Scikit Learn 3,K-Centros 1,0.15,0.2264 ± 0.0700,-1.0000 ± 0.0000,0.0000 ± 0.0000,2.6787 ± 0.0000
+Dataset Sintético Scikit Learn 3,K-Centros 1,0.2,0.1683 ± 0.0051,-1.0000 ± 0.0000,0.0000 ± 0.0000,2.6787 ± 0.0000
+Dataset Sintético Scikit Learn 3,K-Centros 1,0.25,0.1771 ± 0.0475,-1.0000 ± 0.0000,0.0000 ± 0.0000,2.6787 ± 0.0000

@@ -1,0 +1,6 @@
+Dataset,Algoritmo,Referência,Tempo Execução (s),Silhueta,Índice de Rand Ajustado,Raio Máximo
+Optional Recognition of Handwritten Digits,K-Centros 1,0.05,11.9138 ± 0.5966,0.0994 ± 0.0000,0.3371 ± 0.0000,49.7393 ± 0.0000
+Optional Recognition of Handwritten Digits,K-Centros 1,0.1,11.8951 ± 0.6011,0.0994 ± 0.0000,0.3371 ± 0.0000,49.7393 ± 0.0000
+Optional Recognition of Handwritten Digits,K-Centros 1,0.15,11.8661 ± 0.5715,0.0943 ± 0.0000,0.2713 ± 0.0000,51.0490 ± 0.0000
+Optional Recognition of Handwritten Digits,K-Centros 1,0.2,11.8586 ± 0.6642,0.0943 ± 0.0000,0.2713 ± 0.0000,51.0490 ± 0.0000
+Optional Recognition of Handwritten Digits,K-Centros 1,0.25,11.8764 ± 0.5999,0.0807 ± 0.0000,0.1126 ± 0.0000,58.8218 ± 0.0000

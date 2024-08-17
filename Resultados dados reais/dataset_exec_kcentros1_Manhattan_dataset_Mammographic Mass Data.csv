@@ -1,0 +1,6 @@
+Dataset,Algoritmo,Referência,Tempo Execução (s),Silhueta,Índice de Rand Ajustado,Raio Máximo
+Mammographic Mass Data,K-Centros 1,0.05,0.3351 ± 0.0756,0.6819 ± 0.0000,0.0001 ± 0.0000,56.0000 ± 0.0000
+Mammographic Mass Data,K-Centros 1,0.1,0.3351 ± 0.0783,0.6819 ± 0.0000,0.0001 ± 0.0000,56.0000 ± 0.0000
+Mammographic Mass Data,K-Centros 1,0.15,0.2952 ± 0.0108,0.6819 ± 0.0000,0.0001 ± 0.0000,56.0000 ± 0.0000
+Mammographic Mass Data,K-Centros 1,0.2,0.3369 ± 0.0815,0.6819 ± 0.0000,0.0001 ± 0.0000,56.0000 ± 0.0000
+Mammographic Mass Data,K-Centros 1,0.25,0.2739 ± 0.0790,-1.0000 ± 0.0000,0.0000 ± 0.0000,74.0000 ± 0.0000

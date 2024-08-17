@@ -1,0 +1,6 @@
+Dataset,Algoritmo,Referência,Tempo Execução (s),Silhueta,Índice de Rand Ajustado,Raio Máximo
+Statlog Vehicle Silhouettes,K-Centros 1,0.05,0.3293 ± 0.0817,0.4314 ± 0.0000,0.1102 ± 0.0000,529.0000 ± 0.0000
+Statlog Vehicle Silhouettes,K-Centros 1,0.1,0.2850 ± 0.0067,0.4314 ± 0.0000,0.1102 ± 0.0000,529.0000 ± 0.0000
+Statlog Vehicle Silhouettes,K-Centros 1,0.15,0.3242 ± 0.0756,0.1731 ± 0.0000,0.0315 ± 0.0000,601.0000 ± 0.0000
+Statlog Vehicle Silhouettes,K-Centros 1,0.2,0.3247 ± 0.0757,0.1731 ± 0.0000,0.0315 ± 0.0000,601.0000 ± 0.0000
+Statlog Vehicle Silhouettes,K-Centros 1,0.25,0.3270 ± 0.0750,0.1731 ± 0.0000,0.0315 ± 0.0000,601.0000 ± 0.0000

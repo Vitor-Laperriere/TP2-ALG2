@@ -1,0 +1,11 @@
+Dataset,Algoritmo,Tempo Execução (s),Silhueta,Índice de Rand Ajustado,Raio Máximo
+Blood Transfusion Service Center Data,K-Centros 2,0.0004 ± 0.0000,0.8504 ± 0.0000,0.0368 ± 0.0000,6048.0000 ± 0.0000
+Yeast,K-Centros 2,0.0293 ± 0.0029,0.4233 ± 0.0000,0.0092 ± 0.0000,1.5500 ± 0.0000
+Statlog Vehicle Silhouettes,K-Centros 2,0.0042 ± 0.0022,0.1330 ± 0.0000,0.0296 ± 0.0000,596.0000 ± 0.0000
+Optional Recognition of Handwritten Digits,K-Centros 2,0.0757 ± 0.0216,0.0350 ± 0.0000,0.0773 ± 0.0000,347.0000 ± 0.0000
+Abalone,K-Centros 2,0.4197 ± 0.1282,0.2360 ± 0.0000,0.0314 ± 0.0000,2.7530 ± 0.0000
+Maternal Health Risk,K-Centros 2,0.0014 ± 0.0001,0.3886 ± 0.0000,0.0022 ± 0.0000,90.0000 ± 0.0000
+Diabetic Retinopathy Debrecen,K-Centros 2,0.0006 ± 0.0000,0.5459 ± 0.0000,-0.0019 ± 0.0000,562.8169 ± 0.0000
+Raising,K-Centros 2,0.0008 ± 0.0012,0.6393 ± 0.0000,0.0158 ± 0.0000,156470.4476 ± 0.0000
+Image Segmentation,K-Centros 2,0.0052 ± 0.0019,0.1081 ± 0.0000,0.0818 ± 0.0000,957.7717 ± 0.0000
+Mammographic Mass Data,K-Centros 2,0.0004 ± 0.0000,0.6819 ± 0.0000,0.0001 ± 0.0000,56.0000 ± 0.0000
